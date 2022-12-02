@@ -7,5 +7,6 @@ https://vermillion-daffodil-c22330.netlify.app/
 <p>- HTML </p>
 <p>- CSS </p>
 <p>- JavaScript </p>
+<h2> Autor </h2>
 <p>Diego Fagundes da Silva</p>
 www.linkedin.com/in/diego-fagundes-da-silva-694ab71b3
