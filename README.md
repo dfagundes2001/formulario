@@ -6,7 +6,6 @@ https://diegosilva1919.github.io/formulario/
 ## Tenologias ultilizadas
 <p>- HTML </p>
 <p>- CSS </p>
-<p>- JavaScript </p>
 <h2> Autor </h2>
 <p>Diego Fagundes da Silva</p>
 www.linkedin.com/in/diego-fagundes-da-silva-694ab71b3
