@@ -1,4 +1,4 @@
-# Formulario
+# Formulário
 Link do projeto: [https://stately-druid-27e382.netlify.app](https://formulario-df.netlify.app)
 ## Formulario simples com algumas funções para pegar dados do cliente 
 ## Layout 
