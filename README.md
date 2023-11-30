@@ -1,5 +1,5 @@
-# Formulario
-https://idyllic-melomakarona-8d2e3a.netlify.app
+# Formulário
+Link do projeto: [https://stately-druid-27e382.netlify.app](https://formulario-df.netlify.app)
 ## Formulario simples com algumas funções para pegar dados do cliente 
 ## Layout 
 ![image](https://user-images.githubusercontent.com/94011841/205391378-2bedc62b-54cb-44c3-869f-5aacf0891c04.png)
